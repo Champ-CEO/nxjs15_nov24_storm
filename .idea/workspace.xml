@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c7a0903-1b04-484b-bd0e-ca623f4341d9" name="Changes" comment="ESLint &amp; Prettier Setup">
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+    <list default="true" id="5c7a0903-1b04-484b-bd0e-ca623f4341d9" name="Changes" comment="Tailwind CSS Setup &amp; Theming">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Champ-CEO"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Champ-CEO&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Champ-CEO/nxjs15_nov24_storm.git",
-    "accountId": "c3e516ab-93a4-46e1-93c9-b321e3c5a619"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Champ-CEO/nxjs15_nov24_storm.git&quot;,
+    &quot;accountId&quot;: &quot;c3e516ab-93a4-46e1-93c9-b321e3c5a619&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -52,7 +52,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "prettierjs.PrettierConfiguration.Package": "C:\\Users\\ellie\\WebstormProjects\\nxjs15_nov24_storm\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "ts.external.directory.path": "C:\\Users\\ellie\\WebstormProjects\\nxjs15_nov24_storm\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -78,7 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1730896277173</updated>
       <workItem from="1730896278233" duration="386000" />
-      <workItem from="1730896697274" duration="6149000" />
+      <workItem from="1730896697274" duration="6702000" />
+      <workItem from="1730952101989" duration="450000" />
     </task>
     <task id="LOCAL-00001" summary="ESLint &amp; Prettier Setup">
       <option name="closed" value="true" />
@@ -104,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730902633108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tailwind CSS Setup &amp; Theming">
+      <option name="closed" value="true" />
+      <created>1730903072893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730903072893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +122,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Global.css &amp; Tailwind" />
     <MESSAGE value="ESLint &amp; Prettier Setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="ESLint &amp; Prettier Setup" />
+    <MESSAGE value="Tailwind CSS Setup &amp; Theming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tailwind CSS Setup &amp; Theming" />
   </component>
 </project>
