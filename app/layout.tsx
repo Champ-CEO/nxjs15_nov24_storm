@@ -4,34 +4,33 @@ import React from "react";
 
 import "./globals.css";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
+const inter = localFont({
+    src: "./fonts/InterVF.ttf", // Corrected from .tff to .ttf
+    variable: "--font-inter",
+    display: "swap",
 });
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
+
+const spaceGrotesk = localFont({
+    src: "./fonts/SpaceGroteskVF.ttf", // Corrected from .tff to .ttf
+    variable: "--font-space-grotesk",
+    display: "swap",
 });
 
 export const metadata: Metadata = {
-  title: "DevFlow",
-  description: "A better version of Stack overflow",
+    title: "DevFlow",
+    description: "A better version of Stack Overflow",
 };
 
 export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
+                                       children,
+                                   }: Readonly<{
+    children: React.ReactNode;
 }>) {
-  return (
-    <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+    return (
+        <html lang="en" className={`${inter.variable} ${spaceGrotesk.variable}`}>
+        <body className={inter.className}>
         {children}
-      </body>
-    </html>
-  );
+        </body>
+        </html>
+    )
 }
