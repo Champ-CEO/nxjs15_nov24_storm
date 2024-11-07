@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c7a0903-1b04-484b-bd0e-ca623f4341d9" name="Changes" comment="Tailwind CSS Setup &amp; Theming">
-      <change afterPath="$PROJECT_DIR$/app/fonts/InterVF.ttf" afterDir="false" />
+    <list default="true" id="5c7a0903-1b04-484b-bd0e-ca623f4341d9" name="Changes" comment="Font updates">
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +29,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -64,6 +60,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ellie\WebstormProjects\nxjs15_nov24_storm\public" />
       <recent name="C:\Users\ellie\WebstormProjects\nxjs15_nov24_storm\app\fonts" />
       <recent name="C:\Users\ellie\WebstormProjects\nxjs15_nov24_storm" />
     </key>
@@ -87,6 +84,9 @@
       <workItem from="1730896697274" duration="6702000" />
       <workItem from="1730952101989" duration="5721000" />
       <workItem from="1730970456188" duration="45000" />
+      <workItem from="1730970505178" duration="4885000" />
+      <workItem from="1730983384530" duration="130000" />
+      <workItem from="1730983517659" duration="86000" />
     </task>
     <task id="LOCAL-00001" summary="ESLint &amp; Prettier Setup">
       <option name="closed" value="true" />
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730965861980</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Font updates">
+      <option name="closed" value="true" />
+      <created>1730982328173</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730982328173</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +146,7 @@
     <MESSAGE value="Global.css &amp; Tailwind" />
     <MESSAGE value="ESLint &amp; Prettier Setup" />
     <MESSAGE value="Tailwind CSS Setup &amp; Theming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tailwind CSS Setup &amp; Theming" />
+    <MESSAGE value="Font updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Font updates" />
   </component>
 </project>
